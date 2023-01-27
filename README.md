@@ -30,7 +30,5 @@
 
 [Скачать конфигурацию](https://github.com/Parofeen/Project/blob/main/%D0%BB%D0%B0%D0%B16.pkt)
 
-## :white_check_mark: Экзаменационный билет №
-[Перейти к билету](https://github.com/stankin/inet-2022/wiki/)
-
-[Compare revisions]()
+## :white_check_mark: Экзаменационный билет №28
+[Перейти к билету](https://github.com/stankin/inet-2022/wiki/exam28)
